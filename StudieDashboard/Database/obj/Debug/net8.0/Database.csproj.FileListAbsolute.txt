@@ -1,0 +1,12 @@
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\bin\Debug\net8.0\Database.deps.json
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\bin\Debug\net8.0\Database.dll
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\bin\Debug\net8.0\Database.pdb
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\obj\Debug\net8.0\Database.dll
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\obj\Debug\net8.0\refint\Database.dll
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\obj\Debug\net8.0\Database.pdb
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\obj\Debug\net8.0\ref\Database.dll
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
