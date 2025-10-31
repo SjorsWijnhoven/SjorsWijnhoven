@@ -1,0 +1,120 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D27AFA99-0DFF-427B-8707-0C0C2D63E76A}|DroneController.csproj|C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\controllerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{D27AFA99-0DFF-427B-8707-0C0C2D63E76A}|DroneController.csproj|solutionrelative:controllerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27AFA99-0DFF-427B-8707-0C0C2D63E76A}|DroneController.csproj|c:\\users\\sjors\\onedrive\\documenten\\technova\\jaar_2\\c_sharp\\dronecontroller\\controllerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27AFA99-0DFF-427B-8707-0C0C2D63E76A}|DroneController.csproj|solutionrelative:controllerform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B2D14569-B2C1-4AE7-8F9C-FB67B3C3E807}|..\\DroneConnect\\DroneConnect.csproj|c:\\users\\sjors\\onedrive\\documenten\\technova\\jaar_2\\c_sharp\\droneconnect\\tellosharp-master\\tellosharp\\tello.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27AFA99-0DFF-427B-8707-0C0C2D63E76A}|DroneController.csproj|c:\\users\\sjors\\onedrive\\documenten\\technova\\jaar_2\\c_sharp\\dronecontroller\\flightplan_v2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D27AFA99-0DFF-427B-8707-0C0C2D63E76A}|DroneController.csproj|solutionrelative:flightplan_v2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27AFA99-0DFF-427B-8707-0C0C2D63E76A}|DroneController.csproj|c:\\users\\sjors\\onedrive\\documenten\\technova\\jaar_2\\c_sharp\\dronecontroller\\flightplan.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{D27AFA99-0DFF-427B-8707-0C0C2D63E76A}|DroneController.csproj|solutionrelative:flightplan.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D27AFA99-0DFF-427B-8707-0C0C2D63E76A}|DroneController.csproj|c:\\users\\sjors\\onedrive\\documenten\\technova\\jaar_2\\c_sharp\\dronecontroller\\controllerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D27AFA99-0DFF-427B-8707-0C0C2D63E76A}|DroneController.csproj|solutionrelative:controllerform.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlightPlan_V2.txt",
+              "DocumentMoniker": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\FlightPlan_V2.txt",
+              "RelativeDocumentMoniker": "FlightPlan_V2.txt",
+              "ToolTip": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\FlightPlan_V2.txt",
+              "RelativeToolTip": "FlightPlan_V2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-13T09:31:17.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FlightPlan.txt",
+              "DocumentMoniker": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\FlightPlan.txt",
+              "RelativeDocumentMoniker": "FlightPlan.txt",
+              "ToolTip": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\FlightPlan.txt",
+              "RelativeToolTip": "FlightPlan.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-10-10T10:44:40.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Tello.cs",
+              "DocumentMoniker": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneConnect\\TelloSharp-master\\TelloSharp\\Tello.cs",
+              "RelativeDocumentMoniker": "..\\DroneConnect\\TelloSharp-master\\TelloSharp\\Tello.cs",
+              "ToolTip": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneConnect\\TelloSharp-master\\TelloSharp\\Tello.cs",
+              "RelativeToolTip": "..\\DroneConnect\\TelloSharp-master\\TelloSharp\\Tello.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:05:11.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\ControllerForm.cs",
+              "RelativeDocumentMoniker": "ControllerForm.cs",
+              "ToolTip": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\ControllerForm.cs [Design]",
+              "RelativeToolTip": "ControllerForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-13T08:42:18.662Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ControllerForm.cs",
+              "DocumentMoniker": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\ControllerForm.cs",
+              "RelativeDocumentMoniker": "ControllerForm.cs",
+              "ToolTip": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\ControllerForm.cs",
+              "RelativeToolTip": "ControllerForm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:06:51.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ControllerForm.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\ControllerForm.Designer.cs",
+              "RelativeDocumentMoniker": "ControllerForm.Designer.cs",
+              "ToolTip": "C:\\Users\\sjors\\OneDrive\\Documenten\\TechNova\\Jaar_2\\C_Sharp\\DroneController\\ControllerForm.Designer.cs",
+              "RelativeToolTip": "ControllerForm.Designer.cs",
+              "ViewState": "AgIAAIEAAAAAAAAAAAAtwJcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T14:18:37.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

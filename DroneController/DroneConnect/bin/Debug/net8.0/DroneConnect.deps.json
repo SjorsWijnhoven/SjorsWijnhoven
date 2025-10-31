@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "DroneConnect/1.0.0": {
+        "runtime": {
+          "DroneConnect.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DroneConnect/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

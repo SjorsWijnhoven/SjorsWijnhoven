@@ -1,0 +1,34 @@
+----------<CONTROLS>----------
+FORMAT = "action:parameter"
+EXAMPLE -> mf:100 = move forward for 100cm
+	-> rl:180 = rotate left for 180 degrees
+
+
+
+ACTION COMMANDS:
+takeoff = drone takes off (!requires param = 0!)
+land = drone lands	  (!requires param = 0!)
+
+mf = drone moves forward  (cm)
+mb = drone moves back	  (cm)
+ml = drone moves left	  (cm)
+mr = drone moves right	  (cm)
+mu = drone moves up	  (cm)
+md = drone moves down	  (cm)
+
+rl = drone rotates left	  (degrees)
+rr = drone rotates right  (degrees)
+----------</CONTROLS>----------
+
+
+
+
+PLACE COMMANDS IN BLOCK BELOW
+----------<COMMANDS>----------
+takeoff:0
+mf:100
+md:20
+mu:50
+rr:360
+land:0
+----------</COMMANDS>----------

@@ -1,0 +1,11 @@
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\DroneConnect\bin\Debug\net8.0\DroneConnect.deps.json
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\DroneConnect\bin\Debug\net8.0\DroneConnect.dll
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\DroneConnect\bin\Debug\net8.0\DroneConnect.pdb
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\DroneConnect\obj\Debug\net8.0\DroneConnect.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\DroneConnect\obj\Debug\net8.0\DroneConnect.AssemblyInfoInputs.cache
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\DroneConnect\obj\Debug\net8.0\DroneConnect.AssemblyInfo.cs
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\DroneConnect\obj\Debug\net8.0\DroneConnect.csproj.CoreCompileInputs.cache
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\DroneConnect\obj\Debug\net8.0\DroneConnect.dll
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\DroneConnect\obj\Debug\net8.0\refint\DroneConnect.dll
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\DroneConnect\obj\Debug\net8.0\DroneConnect.pdb
+C:\Users\sjors\OneDrive\Documenten\TechNova\Jaar_2\C_Sharp\DroneConnect\obj\Debug\net8.0\ref\DroneConnect.dll

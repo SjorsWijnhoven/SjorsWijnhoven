@@ -1,0 +1,33 @@
+----------<CONTROLS>----------
+takeoff = drone takes off
+land = drone lands
+
+mf = drone moves forward
+mb = drone moves back
+ml = drone moves left
+mr = drone moves right
+mu = drone moves up
+md = drone moves down
+
+rl = drone rotates left
+rr = drone rotates right
+----------</CONTROLS>----------
+
+
+
+
+
+PLACE COMMANDS IN BLOCK BELOW
+----------<COMMANDS>----------
+takeoff
+mf
+mf
+mf
+md
+mu
+rr
+rr
+rr
+rr
+land
+----------</COMMANDS>----------
