@@ -1,4 +1,12 @@
-## Hi there 👋
+# Over Mij
+
+Hallo, ik ben Sjors! Ik ben 24 jaar en ben student aan het Technova College in Ede. Hier volg ik de mbo4-opleiding 'Software Developer,' waar ik heb gekozen voor de specialisatie applicatieontwikkeling.
+In Ede werk ik voornamelijk met C# en MySql, maar ik heb eerder ook enige ervaring opgedaan met Java, Python, HTML5 en php.
+
+Op mijn GitHub pagina zijn een aantal projecten te vinden die ik heb gemaakt, zowel individuele als groepsprojecten.
+Bedankt voor het kijken op mijn pagina!
+
+Voor contact ben ik te bereiken via sjorswijnhoven@gmail.com
 
 <!--
 **SjorsWijnhoven/SjorsWijnhoven** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
